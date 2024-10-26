@@ -1,5 +1,7 @@
 ## Hi there 👋 My name is Yashvi Desai!
 
+I am correctly a game development student working on all sorts of projects. 
+
 <!--
 **dyashvii/dyashvii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
